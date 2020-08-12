@@ -2722,7 +2722,7 @@ body {
   text-align: center;
   }
   main .one #pictures {
-    border-radius: 50%;
+    border-radius: 80%;
   }
 
   @media screen and (max-width: 980px) {
@@ -2746,7 +2746,7 @@ body {
     text-align: center;
     }
     main .content #pictures {
-      border-radius: 50%;
+      border-radius: 80%;
     }
   
     @media screen and (max-width: 980px) {
