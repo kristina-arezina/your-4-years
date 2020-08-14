@@ -1,6 +1,8 @@
 # your-4-years
 A student-run platform that helps high school students across Ontario cope with stress and transition into high school.
 
+### Link to the website: https://your4years.netlify.app/
+
 # Website
 This is a website that will have:
 - [x] A weekly blog 
